@@ -1,4 +1,4 @@
-package com.protalento.controladorServlet;
+package com.protalento.conectorBaseDatos.entidadesBackFront.controladorServlet;
 
 import javax.servlet.*;
 import javax.servlet.http.*;
