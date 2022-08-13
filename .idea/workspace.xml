@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3e7d516c-0182-4df2-a24b-a893931c3d9e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Clas14sql/src/main/java/sqlcone/Sqlconetion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Clase17/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Clase17/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Genericas1/src/main/java/principal/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Genericas1/src/main/java/principal/general.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Laboratro1modulo5/src/main/java/entidad/Administrativo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Laboratro1modulo5/src/main/java/entidad/Alumno.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Laboratro1modulo5/src/main/java/entidad/Cursos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Laboratro1modulo5/src/main/java/entidad/Director.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Laboratro1modulo5/src/main/java/entidad/Documento.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Laboratro1modulo5/src/main/java/entidad/Empleado.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Laboratro1modulo5/src/main/java/entidad/Persona.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Laboratro1modulo5/src/main/java/entidad/Profesor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Laboratro1modulo5/src/main/java/interfaces/Indicasiones.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Laboratro1modulo5/src/main/java/principla/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Laboratro1modulo5/src/main/java/utilidad/ExectionDocumento.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Laboratro1modulo5/src/main/java/utilidad/Fechas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Listas/src/main/java/ConvertidorTXTaPDF/Prueva.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Listas/src/main/java/Main/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Listas/src/main/java/Main/CreandoArchivoPdf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Listas/src/main/java/Main/CreeandoArchivoFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Listas/src/main/java/Main/EscribiendoArchivo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Listas/src/main/java/Main/LeerArchiboPorCaractertes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Listas/src/main/java/Main/LeerBufferRider.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Listas/src/main/java/Main/LeerEscribirUsuario.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Listas/src/main/java/Main/LeerObjetos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Listas/src/main/java/Main/LeerURL.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Listas/src/main/java/Main/Usuario.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Listas/src/main/java/test/TestManejoArchivo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Modulo6/src/main/java/LIST/LisT.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Modulo6/src/main/java/hashset/AppHashset.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Modulo6/src/main/java/hashset/Persona.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../appweb/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../appweb/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../appweb/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../appweb/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../appweb/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../appweb/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../appweb/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../appweb/src/main/java/entidades/Usuario.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../appweb/src/main/java/protalento/Validacion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../appweb/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../appweb/src/main/webapp/bienvenido.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../appweb/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../argumentosVariable/src/main/java/argumentosVariable/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coleccionQueue/src/main/java/desafio/app/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coleccionQueue/src/main/java/desafio/entida/Documento.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coleccionQueue/src/main/java/desafio/entida/Persona1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coleccionQueue/src/main/java/desafio/entida/Practis.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coleccionQueue/src/main/java/desafio/entida/Turno.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coleccionQueue/src/main/java/mapas/app/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coleccionQueue/src/main/java/mapas/entidades/Persona.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coleccionQueue/src/main/java/org/protalento/Comparadores/OrdenDocumento.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coleccionQueue/src/main/java/org/protalento/Comparadores/OrderEdades.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coleccionQueue/src/main/java/org/protalento/entidades/Administrativo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coleccionQueue/src/main/java/org/protalento/entidades/Curso.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coleccionQueue/src/main/java/org/protalento/entidades/Director.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coleccionQueue/src/main/java/org/protalento/entidades/Documento.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coleccionQueue/src/main/java/org/protalento/entidades/Empleado.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coleccionQueue/src/main/java/org/protalento/entidades/Estudiante.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coleccionQueue/src/main/java/org/protalento/entidades/Persona.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coleccionQueue/src/main/java/org/protalento/entidades/Profesor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coleccionQueue/src/main/java/org/protalento/enumerados/TipoDocumento.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coleccionQueue/src/main/java/org/protalento/execion/ExcepcionDocumento.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coleccionQueue/src/main/java/org/protalento/execion/ExecptioFecha.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coleccionQueue/src/main/java/org/protalento/interfaces/CRUD.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coleccionQueue/src/main/java/org/protalento/interfaces/Constantes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coleccionQueue/src/main/java/org/protalento/utilidades/Fechas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../enumerados/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../enumerados/src/main/java/Test/TestApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../enumerados/src/main/java/enumeraciones/Continetes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../enumerados/src/main/java/enumeraciones/Dias.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../execionesPropias/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../execionesPropias/src/main/java/org/protalento/excepciones/Aritmetica.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../execionesPropias/src/main/java/org/protalento/excepciones/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../execionesPropias/src/main/java/org/protalento/excepciones/exceptionEntida.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../facturaVenta/src/main/java/utilidades/Orden.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../facturaVenta/src/main/java/utilidades/Producto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../grupoaestudio/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../grupoaestudio/src/main/java/app/APP.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../grupoaestudio/src/main/java/entidad/Botella.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../grupoaestudio/src/main/java/entidad/Elemento.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../grupoaestudio/src/main/java/entidad/Lata.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../grupoaestudio/src/main/java/entidad/ProdcutoNn.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../interfaceQueue/src/main/java/ejercicio1CajeroAutomatico/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../interfaceQueue/src/main/java/ejercicio1CajeroAutomatico/RecursoSimulador.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../interfaceQueue/src/main/java/queue/Persona.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../interfaceQueue/src/main/java/queue/queue1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javaBean/src/main/java/org/protalento/entidad/PersonaBean.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jdbcPersitenciaDatos/src/main/java/Implementaciones/ImpMensaje.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jdbcPersitenciaDatos/src/main/java/app/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jdbcPersitenciaDatos/src/main/java/conexion/Conexion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jdbcPersitenciaDatos/src/main/java/mensje/Mensaje.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jdbcPersitenciaDatos/src/main/java/mensje/MensajeDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laboratorio2-modulo4/src/main/java/entity/Administrativo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laboratorio2-modulo4/src/main/java/entity/Alumno.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laboratorio2-modulo4/src/main/java/entity/Director.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laboratorio2-modulo4/src/main/java/entity/Documento.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laboratorio2-modulo4/src/main/java/entity/Empleado.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laboratorio2-modulo4/src/main/java/entity/ListaCursos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laboratorio2-modulo4/src/main/java/entity/Persona.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laboratorio2-modulo4/src/main/java/entity/Profesor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laboratorio2-modulo4/src/main/java/interfa/crud.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laboratorio2-modulo4/src/main/java/view/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../manejoArreglo/src/main/java/Test/TestArreglos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../manejoArreglo/src/main/java/Test/TestPersona.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../manejoArreglo/src/main/java/org/example/ArraysPersona.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../manejoMatrices/src/main/java/Persona/Persona.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../manejoMatrices/src/main/java/org/matrices/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mejora_sistema_colegio/src/main/java/org/protalento/app/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mejora_sistema_colegio/src/main/java/org/protalento/entidades/Administrativo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mejora_sistema_colegio/src/main/java/org/protalento/entidades/Director.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mejora_sistema_colegio/src/main/java/org/protalento/entidades/Empleado.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mejora_sistema_colegio/src/main/java/org/protalento/entidades/Estudiante.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mejora_sistema_colegio/src/main/java/org/protalento/entidades/Persona.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mejora_sistema_colegio/src/main/java/org/protalento/entidades/Profesor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mejora_sistema_colegio/src/main/java/org/protalento/enumerados/TipoDocumento.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mejora_sistema_colegio/src/main/java/org/protalento/exectiones/exectioDocumento.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mejora_sistema_colegio/src/main/java/org/protalento/exectiones/exectioFecha.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mejora_sistema_colegio/src/main/java/org/protalento/implementaciones/impAdministrativo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mejora_sistema_colegio/src/main/java/org/protalento/implementaciones/impDirector.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mejora_sistema_colegio/src/main/java/org/protalento/implementaciones/impEstudiante.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mejora_sistema_colegio/src/main/java/org/protalento/implementaciones/impProfesor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mejora_sistema_colegio/src/main/java/org/protalento/jdbc/Conexion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mejora_sistema_colegio/src/main/java/org/protalento/jdbc/DAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mejora_sistema_colegio/src/main/java/org/protalento/utilidades/Fecha.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../modulo5-laboratorio1/src/main/java/entidades/Administrativo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../modulo5-laboratorio1/src/main/java/entidades/Alumno.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../modulo5-laboratorio1/src/main/java/entidades/Curso.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../modulo5-laboratorio1/src/main/java/entidades/Director.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../modulo5-laboratorio1/src/main/java/entidades/Documento.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../modulo5-laboratorio1/src/main/java/entidades/Empleado.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../modulo5-laboratorio1/src/main/java/entidades/Persona.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../modulo5-laboratorio1/src/main/java/entidades/Profesor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../modulo5-laboratorio1/src/main/java/interfaces/Tipo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../modulo5-laboratorio1/src/main/java/principal/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../modulo5-laboratorio1/src/main/java/utilidades/Exepciones.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../modulo5-laboratorio1/src/main/java/utilidades/Fecha.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../patronDiseñoDaoDto/src/main/java/entidades/Usuario.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/proyecto1_Bootcamp_java_war.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/proyecto1_Bootcamp_java_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/protalento/controladorServlet/ServletValidacion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/META-INF/beans.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/META-INF/persistence.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proyectoBackendConnexionDataBase/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proyectoBackendConnexionDataBase/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proyectoBackendConnexionDataBase/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proyectoBackendConnexionDataBase/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proyectoBackendConnexionDataBase/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proyectoBackendConnexionDataBase/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proyectoBackendConnexionDataBase/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proyectoBackendConnexionDataBase/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proyectoBackendConnexionDataBase/src/main/java/conectorBasedato/UserPrueba.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proyectoBackendConnexionDataBase/src/main/java/org/protalento/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proyectoBackendConnexionDataBase/src/test/java/org/protalento/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proyectoIntegradorPelicula/src/main/java/com/protalento/entidades/Pelicula.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proyectoIntegradorPelicula/src/main/java/com/protalento/excepsiones/AccesoDatosEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proyectoIntegradorPelicula/src/main/java/com/protalento/excepsiones/EscrituraDatosEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proyectoIntegradorPelicula/src/main/java/com/protalento/excepsiones/LecturaDatosEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proyectoIntegradorPelicula/src/main/java/com/protalento/implementacion/ImplAccesoDatos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proyectoIntegradorPelicula/src/main/java/com/protalento/implementacion/implCatalogoPelicula.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proyectoIntegradorPelicula/src/main/java/com/protalento/interfaces/AccesoDatos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proyectoIntegradorPelicula/src/main/java/com/protalento/interfaces/CatalogoPeliculas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pruebaConexion/src/main/java/conection/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pruebaConexion/src/main/java/conection/AppPrepare.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pruebaConexion/src/main/java/ejerciciopconexion/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/clasemysql14.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/src/main/java/conexion/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled1/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled1/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled1/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled1/untitled1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../usoDaoDto/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../usoDaoDto/src/main/java/Interfaces/ConexionMariadb.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../usoDaoDto/src/main/java/Interfaces/Dao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../usoDaoDto/src/main/java/entidades/Usuario.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../usoDaoDto/src/main/java/implementacion/mariadb/UsuarioImplementacion.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="Tomcat 9.0.642" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.642" ALTERNATIVE_JRE_ENABLED="false">
+      <deployment>
+        <artifact name="proyecto1_Bootcamp_java:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/proyecto1_Bootcamp_java_war_exploded" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings />
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="proyecto1_Bootcamp_java:war exploded" />
+        </option>
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3e7d516c-0182-4df2-a24b-a893931c3d9e" name="Changes" comment="" />
+      <created>1660329096896</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1660329096896</updated>
+      <workItem from="1660329098949" duration="2352000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
